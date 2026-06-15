@@ -83,6 +83,11 @@ Verified primary literature from our internal evidence collection, with full cit
 - **glp1micro2023** — Zeng Y, Wu Y, Zhang Q, Xiao X. *Crosstalk between glucagon-like peptide 1 and gut microbiota in metabolic diseases*. mBio. 2023;15(1):e0203223. [doi:10.1128/mbio.02032-23](https://doi.org/10.1128/mbio.02032-23)
 - **scfa2023** — Zhang D, Jian YP, Zhang YN, et al. *Short-chain fatty acids in diseases*. Cell Commun Signal. 2023;21(1):212. [doi:10.1186/s12964-023-01219-9](https://doi.org/10.1186/s12964-023-01219-9)
 
+### Sports, nutrition & recovery
+- **athletemicro2022** — O'Brien MT, O'Sullivan O, Claesson MJ, Cotter PD. *The Athlete Gut Microbiome and its Relevance to Health and Performance: A Review*. Sports Med. 2022;52(Suppl 1):119-128. [doi:10.1007/s40279-022-01785-x](https://doi.org/10.1007/s40279-022-01785-x)
+- **athleteperf2024** — Patel BK, Patel KH, Lee CN, Moochhala S. *Intestinal Microbiota Interventions to Enhance Athletic Performance — A Review*. Int J Mol Sci. 2024;25(18):10076. [doi:10.3390/ijms251810076](https://doi.org/10.3390/ijms251810076)
+- **bioactivepeptides2024** — Wijesekara T, Abeyrathne EDNS, Ahn DU. *Effect of Bioactive Peptides on Gut Microbiota and Their Relations to Human Health*. Foods. 2024;13(12):1853. [doi:10.3390/foods13121853](https://doi.org/10.3390/foods13121853)
+
 ### Methods, aging & biomarkers
 - **metaomics2019** — Zhang X, Li L, Butcher J, Stintzi A, Figeys D. *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019;7(1):154. [doi:10.1186/s40168-019-0767-6](https://doi.org/10.1186/s40168-019-0767-6)
 - **microbiomeage2025** — Myers T, Song SJ, Chen Y, et al. *Chronological age estimation from human microbiomes with transformer-based robust principal component analysis*. Commun Biol. 2025;8(1):1159. [doi:10.1038/s42003-025-08590-y](https://doi.org/10.1038/s42003-025-08590-y)
