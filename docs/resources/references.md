@@ -91,3 +91,14 @@ Verified primary literature from our internal evidence collection, with full cit
 ### Methods, aging & biomarkers
 - **metaomics2019** — Zhang X, Li L, Butcher J, Stintzi A, Figeys D. *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019;7(1):154. [doi:10.1186/s40168-019-0767-6](https://doi.org/10.1186/s40168-019-0767-6)
 - **microbiomeage2025** — Myers T, Song SJ, Chen Y, et al. *Chronological age estimation from human microbiomes with transformer-based robust principal component analysis*. Commun Biol. 2025;8(1):1159. [doi:10.1038/s42003-025-08590-y](https://doi.org/10.1038/s42003-025-08590-y)
+
+### First-responder & occupational health
+- **smith2011** — Smith DL. *Firefighter fitness: improving performance and preventing injuries and fatalities*. Curr Sports Med Rep. 2011;10(3):167-172. [doi:10.1249/JSR.0b013e31821a9fec](https://doi.org/10.1249/JSR.0b013e31821a9fec)
+- **touitou2025** — Touitou Y, Perlemuter G, Touitou C. *Shift work, gut dysbiosis, and circadian misalignment*. Chronobiol Int. 2025;42(10):1275-1290. [doi:10.1080/07420528.2025.2540039](https://doi.org/10.1080/07420528.2025.2540039)
+- **mackay2024** — MacKay M, Yang BH, Dursun SM, Baker GB. *The Gut-Brain Axis and the Microbiome in Anxiety Disorders, Post-Traumatic Stress Disorder and Obsessive-Compulsive Disorder*. Curr Neuropharmacol. 2024;22(5):866-883. [doi:10.2174/1570159X21666230222092029](https://doi.org/10.2174/1570159X21666230222092029)
+
+### Health economics (cost of disease)
+- **parker2024** — Parker ED, Lin J, Mahoney T, et al. *Economic Costs of Diabetes in the U.S. in 2022*. Diabetes Care. 2024;47(1):26-43. [doi:10.2337/dci23-0085](https://doi.org/10.2337/dci23-0085)
+- **park2020** — Park KT, Ehrlich OG, Allen JI, et al. *The Cost of Inflammatory Bowel Disease: An Initiative From the Crohn's & Colitis Foundation*. Inflamm Bowel Dis. 2020;26(1):1-10. [doi:10.1093/ibd/izz104](https://doi.org/10.1093/ibd/izz104)
+- **kim2016** — Kim DD, Basu A. *Estimating the Medical Care Costs of Obesity in the United States*. Value Health. 2016;19(5):602-613. [doi:10.1016/j.jval.2016.02.008](https://doi.org/10.1016/j.jval.2016.02.008)
+- **greenberg2021** — Greenberg PE, Fournier AA, Sisitsky T, et al. *The Economic Burden of Adults with Major Depressive Disorder in the United States (2010 and 2018)*. Pharmacoeconomics. 2021;39(6):653-665. [doi:10.1007/s40273-021-01019-4](https://doi.org/10.1007/s40273-021-01019-4)
