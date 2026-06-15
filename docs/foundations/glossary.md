@@ -48,6 +48,8 @@ This is the team's shared dictionary — quick, plain-English definitions of the
 
 **Epigenome** — The full set of epigenetic marks (like methylation) across all of an organism's DNA.
 
+**Human Genome Project (HGP)** — The landmark international research effort (1990–2003) that produced the first essentially complete map of the roughly 3 billion DNA "letters" (base pairs) that make up a human genome. Think of it as drawing the first full reference map of human DNA. Its completion in 2003 gave science a shared reference and kick-started the technology race that has driven sequencing costs down dramatically ever since — which is precisely what makes today's fast, affordable microbiome and methylation testing possible.[^goodwin2016]
+
 **16S rRNA** — A gene present in all bacteria that varies just enough between species to act as a "barcode" for identifying which bacteria are present.
 
 **Alpha vs beta diversity** — Remember it as: alpha = diversity *within* one sample; beta = differences *between* samples.
