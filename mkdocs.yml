@@ -1,0 +1,96 @@
+site_name: DHealth Knowledge Base
+site_description: Microbiome, NGS testing, methylation & epigenomics — from simple to advanced, fully referenced.
+site_author: Dayhoff / DHealth
+# TODO: set to your live GitHub Pages URL once enabled, e.g. https://lunatech2022.github.io/DHealth/
+site_url: ""
+repo_name: lunatech2022/DHealth
+repo_url: https://github.com/lunatech2022/DHealth
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Foundations:
+      - What Is the Microbiome?: foundations/what-is-the-microbiome.md
+      - Why It Matters: foundations/why-it-matters.md
+      - Glossary: foundations/glossary.md
+  - Sequencing & Testing:
+      - Intro to NGS: testing/intro-to-ngs.md
+      - 16S rRNA Sequencing: testing/16s-sequencing.md
+      - Shotgun Metagenomics: testing/shotgun-metagenomics.md
+      - 16S vs Shotgun: testing/16s-vs-shotgun.md
+      - Other Methods: testing/other-methods.md
+      - From Sample to Result: testing/sample-to-result.md
+  - Epigenetics & Methylation:
+      - Intro to Epigenetics: epigenetics/intro-to-epigenetics.md
+      - DNA Methylation: epigenetics/dna-methylation.md
+      - Epigenomics & Methylation Sequencing: epigenetics/epigenomics-sequencing.md
+      - Microbiome–Epigenome Interactions: epigenetics/microbiome-epigenome.md
+  - Interpreting Results:
+      - Reading a Report: interpreting/reading-a-report.md
+      - Diversity Metrics: interpreting/diversity-metrics.md
+      - Taxonomy & Abundance: interpreting/taxonomy-abundance.md
+      - Functional Analysis: interpreting/functional-analysis.md
+  - Clinical & Commercial:
+      - Applications & Use Cases: clinical/applications.md
+      - Competitive Landscape: clinical/competitive-landscape.md
+      - Sales FAQs: clinical/faqs.md
+  - Advanced:
+      - Bioinformatics Pipelines: advanced/bioinformatics-pipelines.md
+      - Reference Databases: advanced/databases.md
+      - Limitations & Caveats: advanced/limitations.md
+  - Resources:
+      - References: resources/references.md
+      - Further Reading: resources/further-reading.md
+      - Contributing: contributing.md
