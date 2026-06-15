@@ -29,6 +29,9 @@ Methylation sequencing reads which positions across the genome carry methyl tags
 - Both approaches accurately quantify methylation across the genome.[^han2021]
 - Methylation patterns can be used to estimate biological age via epigenetic "clocks."
 
+!!! abstract "In simple terms"
+    Your DNA carries tiny chemical "tags" that act like sticky notes telling genes when to switch on or off. To read where these tags sit, scientists first treat the DNA so the tagged and untagged spots look different, then sequence it. There are two main ways to do this prep: an older chemical bath and a gentler enzyme-based method that is kinder to small samples. Read enough of these tags and you can even estimate someone's "biological age," which is how worn the body looks rather than how many birthdays they've had.
+
 ## The detail
 
 To read the epigenome we need to detect, at single-base resolution, which cytosines carry a methyl group.[^moore2012] Because ordinary sequencing cannot tell a methylated cytosine from an unmethylated one directly, methylation methods first convert the DNA in a way that makes the difference readable.

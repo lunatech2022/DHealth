@@ -28,6 +28,9 @@ The gut microbiome influences how our own genes are regulated, largely through t
 - Microbial metabolites act on the gut-brain axis, including through epigenetic regulation.[^caspani2019]
 - The field is moving toward cause-and-effect understanding using multi-omics.[^fan2020]
 
+!!! abstract "In simple terms"
+    The bacteria living in your gut don't just digest food; they also send out chemical messages that reach your own cells. Think of them as tiny tenants who leave notes that can flip your genes on or off. When they break down fibre, they make helpful compounds that calm inflammation, strengthen your gut lining, and even influence your brain through these gene-level signals. So a healthy gut community isn't only about digestion; it's quietly helping tune how your body runs.
+
 ## The detail
 
 The microbiome does more than digest food; it sends chemical signals that reach into our cells and influence how our genes are regulated. The clearest example is the family of **short-chain fatty acids (SCFAs)**, produced when anaerobic gut bacteria ferment dietary fiber. The major SCFAs are **butyrate, acetate, and propionate**, and they help maintain gut homeostasis, support barrier integrity, and reduce inflammation, importantly, doing so via epigenetic modifications including DNA and histone methylation.[^alsharairi2023]
