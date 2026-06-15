@@ -22,7 +22,7 @@ Next-generation sequencing reads the DNA (and RNA) in a sample at massive scale 
 
 - **Sequencing = reading the genetic code.** It spells out the order of the letters (A, C, G, T) in DNA.
 - **"Next-generation" means high-throughput.** Instead of reading one piece at a time, NGS reads millions of fragments in parallel.
-- **Cost has collapsed.** Sequencing is dramatically cheaper than it was at the time of the Human Genome Project.[^goodwin2016]
+- **Cost has collapsed.** Sequencing is dramatically cheaper than it was at the time of the [Human Genome Project](../foundations/glossary.md#human-genome-project).[^goodwin2016]
 - **Two broad flavors:** short-read (high accuracy, high volume) and long-read (better for complex regions).[^goodwin2016]
 - **It underpins microbiome and pathogen testing** because nearly every organism carries DNA or RNA we can read.[^gu2019]
 

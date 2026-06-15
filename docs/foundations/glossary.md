@@ -48,7 +48,7 @@ This is the team's shared dictionary — quick, plain-English definitions of the
 
 **Epigenome** — The full set of epigenetic marks (like methylation) across all of an organism's DNA.
 
-**Human Genome Project (HGP)** — The landmark international research effort (1990–2003) that produced the first essentially complete map of the roughly 3 billion DNA "letters" (base pairs) that make up a human genome. Think of it as drawing the first full reference map of human DNA. Its completion in 2003 gave science a shared reference and kick-started the technology race that has driven sequencing costs down dramatically ever since — which is precisely what makes today's fast, affordable microbiome and methylation testing possible.[^goodwin2016]
+<a id="human-genome-project"></a>**Human Genome Project (HGP)** — The landmark international research effort (1990–2003) that produced the first essentially complete map of the roughly 3 billion DNA "letters" (base pairs) that make up a human genome. Think of it as drawing the first full reference map of human DNA. Its completion in 2003 gave science a shared reference and kick-started the technology race that has driven sequencing costs down dramatically ever since — which is precisely what makes today's fast, affordable microbiome and methylation testing possible.[^goodwin2016]
 
 **16S rRNA** — A gene present in all bacteria that varies just enough between species to act as a "barcode" for identifying which bacteria are present.
 
@@ -60,7 +60,7 @@ This is the team's shared dictionary — quick, plain-English definitions of the
 
 **Microbiota** — The living microorganisms themselves — bacteria, archaea, viruses, fungi, and other single-celled organisms.
 
-**NGS (Next-Generation Sequencing)** — A family of modern, high-throughput sequencing technologies that read DNA quickly and cheaply; the cost of sequencing has fallen dramatically since the Human Genome Project.[^goodwin2016]
+**NGS (Next-Generation Sequencing)** — A family of modern, high-throughput sequencing technologies that read DNA quickly and cheaply; the cost of sequencing has fallen dramatically since the [Human Genome Project](#human-genome-project).[^goodwin2016]
 
 **OTU (Operational Taxonomic Unit)** — An older way of grouping similar sequencing reads into clusters (typically at ~97% similarity) to approximate a species; largely superseded by ASVs.[^knight2018]
 
