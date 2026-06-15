@@ -1,36 +1,73 @@
 ---
-title: Shotgun Metagenomic Sequencing
+title: "Shotgun Metagenomic Sequencing"
+tags:
+  - shotgun
+  - metagenomics
+  - sequencing
+  - microbiome
+  - bioinformatics
+  - testing-methods
 ---
 
 # Shotgun Metagenomic Sequencing
 
 !!! info "Page status"
-    **Level:** Intermediate &nbsp;·&nbsp; **Status:** :material-circle-outline: Stub (to be written) &nbsp;·&nbsp; **Last reviewed:** _pending_
+    **Level:** Intermediate &nbsp;·&nbsp; **Status:** :material-circle: Drafted &nbsp;·&nbsp; **Last reviewed:** 2026-06-14
 
-> **Purpose:** How shotgun sequencing reads all DNA in a sample for species- and function-level insight.
-
----
+> **Purpose:** Explain how shotgun metagenomics reads *all* the DNA in a sample, the deeper insight it unlocks (species, strains, function), and the tradeoffs that come with that power.
 
 ## In one sentence
-_TODO: plain-language summary a non-scientist can repeat to a customer._
+
+Shotgun metagenomics sequences all the DNA in a sample at once, identifying microbes to the species and strain level and revealing what they can *do* — at the cost of more money, compute, and complexity.
 
 ## Key points
-- _TODO_
-- _TODO_
-- _TODO_
+
+- **Reads everything.** Not just one gene — all DNA from bacteria, archaea, viruses, and eukaryotes.[^quince2017]
+- **Higher resolution.** Enables species- and strain-level identification.[^quince2017]
+- **Functional insight.** Profiles pathways, antibiotic-resistance and virulence genes — what the community *does*, not just who's there.[^quince2017]
+- **Catches non-bacterial members** that 16S misses entirely.[^quince2017]
+- **More sensitive in practice.** Head-to-head on the same stool samples, shotgun identified more species per sample than 16S.[^laudadio2018]
+- **Tradeoffs:** higher cost, heavier computation, host-DNA contamination, and reference-database gaps.
 
 ## The detail
-_TODO: full explanation. Build from simple to advanced. Add diagrams to `docs/assets/`._
+
+**The core idea.** Where 16S reads one targeted gene, shotgun metagenomics chops up and sequences *all* the DNA in a sample. That includes not just bacteria but archaea, viruses, and eukaryotes — the whole genetic community.[^quince2017] This matters because many microbes are hard or impossible to culture, and a 16S survey blind to non-bacterial members will simply miss them.[^quince2017]
+
+**Higher resolution and function.** Reading whole genomes rather than a single barcode gene lets shotgun resolve organisms to the species and even strain level. Crucially, it also reveals **functional** information: the metabolic pathways present, and genes for antibiotic resistance or virulence. So shotgun answers two questions at once — *who is here* and *what can they do*.[^quince2017] Analysis can proceed by assembling reads into longer genome fragments (assembly-based) or by mapping reads to references (mapping-based).[^quince2017]
+
+**Real-world sensitivity.** This isn't just theoretical. In a direct head-to-head on the same human stool samples, shotgun sequencing identified more species per sample than 16S amplicon sequencing.[^laudadio2018] For clinical contexts, untargeted sequencing of all genetic material is also what allows metagenomic NGS to detect pathogens that conventional, culture-based diagnostics miss.[^gu2019]
+
+**The tradeoffs — set expectations.** Power comes at a price:
+
+| Dimension | Shotgun reality |
+| --- | --- |
+| Cost | Higher per sample than 16S |
+| Compute | Heavier data and bioinformatics load |
+| Host DNA | Human/host DNA can dominate and must be filtered |
+| Databases | Resolution is limited by gaps in reference databases |
+
+For a structured decision on 16S versus shotgun, see the [16S vs Shotgun](../testing/16s-vs-shotgun.md) page.
+
+!!! tip "So what?"
+    Shotgun is the right call when a customer needs confident species/strain identity, functional and resistance-gene insight, or detection of viruses and other non-bacterial members. It reliably finds more than 16S on the same sample — the upgrade is real, not marketing.[^laudadio2018] [^quince2017]
 
 ## Why it matters for Dayhoff / DHealth
-_TODO: commercial and clinical relevance — how this connects to our product and sales conversations._
+
+Shotgun is our premium, high-resolution offering and a clear differentiator from commodity 16S testing. When customers care about strain-level identity, antimicrobial resistance, or catching organisms that 16S can't see, this is the method to lead with. Being precise about both its advantages *and* its cost/compute tradeoffs lets the team position it as the right tool for the right job, rather than overselling.
 
 ## Common questions
-_TODO: objections / FAQs a sales rep hears on this topic._
 
----
+**Q: How is shotgun different from 16S, in one line?**
+16S reads one gene; shotgun reads all the DNA — so it can identify more organisms and reveal their functions.[^quince2017]
+
+**Q: Will shotgun really find more than 16S?**
+Yes. In a same-sample comparison on stool, shotgun identified more species per sample.[^laudadio2018]
+
+**Q: Why does shotgun cost more?**
+It sequences far more material and needs heavier computation and bioinformatics to interpret, plus filtering of host DNA.
 
 ### References
-Cite inline with footnotes, e.g. "16S targets the rRNA gene[^example]."
 
-[^example]: Author A, et al. *Title*. Journal. Year. DOI/URL. _(replace with real source)_
+[^quince2017]: Quince C, Walker AW, Simpson JT, Loman NJ, Segata N. *Shotgun metagenomics, from sampling to analysis*. Nat Biotechnol. 2017;35(9):833-844. [DOI](https://doi.org/10.1038/nbt.3935)
+[^laudadio2018]: Laudadio I, Fulci V, Palone F, Stronati L, Cucchiara S, Carissimi C. *Quantitative Assessment of Shotgun Metagenomics and 16S rDNA Amplicon Sequencing in the Study of Human Gut Microbiome*. OMICS. 2018;22(4):248-254. [DOI](https://doi.org/10.1089/omi.2018.0013)
+[^gu2019]: Gu W, Miller S, Chiu CY. *Clinical Metagenomic Next-Generation Sequencing for Pathogen Detection*. Annu Rev Pathol. 2019;14:319-338. [DOI](https://doi.org/10.1146/annurev-pathmechdis-012418-012751)

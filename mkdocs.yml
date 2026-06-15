@@ -56,8 +56,12 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+exclude_docs: |
+  Armstrong files/
+
 plugins:
   - search
+  - tags
 
 nav:
   - Home: index.md
@@ -93,4 +97,5 @@ nav:
   - Resources:
       - References: resources/references.md
       - Further Reading: resources/further-reading.md
+      - Tags: tags.md
       - Contributing: contributing.md
