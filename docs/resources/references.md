@@ -58,28 +58,26 @@ _Grows as pages are written. Every page's footnotes should resolve to an entry h
 
 ## Primary source library
 
-Verified primary literature from our internal evidence collection. Each title links to its DOI (the canonical, checkable record). Grouped by theme; these are being woven into the relevant pages.
+Verified primary literature from our internal evidence collection, with full citations (authors, journal, volume, year) confirmed against PubMed. Grouped by theme.
 
 ### Healthy microbiome, development & variation
-- **hmp2012** — *Structure, function and diversity of the healthy human microbiome*. Nature. 2012. [doi:10.1038/nature11234](https://doi.org/10.1038/nature11234)
-- **yatsunenko2012** — *Human gut microbiome viewed across age and geography*. Nature. 2012. [doi:10.1038/nature11053](https://doi.org/10.1038/nature11053)
-- **koenig2011** — *Succession of microbial consortia in the developing infant gut microbiome*. PNAS. 2011. [doi:10.1073/pnas.1000081107](https://doi.org/10.1073/pnas.1000081107)
-- **stewart2018** — *Temporal development of the gut microbiome in early childhood (TEDDY)*. Nature. 2018. [doi:10.1038/s41586-018-0617-x](https://doi.org/10.1038/s41586-018-0617-x)
-- **xie2016** — *Shotgun metagenomics of 250 adult twins reveals genetic and environmental impacts on the gut microbiome*. Cell Syst. 2016. [doi:10.1016/j.cels.2016.10.004](https://doi.org/10.1016/j.cels.2016.10.004)
-- **gutmeta2022** — *Gut metagenome associations*. Nat Commun. 2022. [doi:10.1038/s41467-022-28464-9](https://doi.org/10.1038/s41467-022-28464-9)
-- **birthmode2018** — *Birth mode and infant gut microbiota in intergenerational transmission of overweight/obesity*. JAMA Pediatr. 2018. [doi:10.1001/jamapediatrics.2017.5535](https://doi.org/10.1001/jamapediatrics.2017.5535)
-- **antibiotics2021** — *Neonatal antibiotic exposure impairs child growth*. Nat Commun. 2021. [doi:10.1038/s41467-020-20495-4](https://doi.org/10.1038/s41467-020-20495-4)
-- **hygiene2017** — *The hygiene hypothesis in the age of the microbiome*. Ann Am Thorac Soc. 2017. [doi:10.1513/AnnalsATS.201702-139AW](https://doi.org/10.1513/AnnalsATS.201702-139AW)
+- **hmp2012** — Human Microbiome Project Consortium. *Structure, function and diversity of the healthy human microbiome*. Nature. 2012;486(7402):207-214. [doi:10.1038/nature11234](https://doi.org/10.1038/nature11234)
+- **yatsunenko2012** — Yatsunenko T, Rey FE, Manary MJ, et al. *Human gut microbiome viewed across age and geography*. Nature. 2012;486(7402):222-227. [doi:10.1038/nature11053](https://doi.org/10.1038/nature11053)
+- **koenig2011** — Koenig JE, Spor A, Scalfone N, et al. *Succession of microbial consortia in the developing infant gut microbiome*. Proc Natl Acad Sci U S A. 2011;108(Suppl 1):4578-4585. [doi:10.1073/pnas.1000081107](https://doi.org/10.1073/pnas.1000081107)
+- **stewart2018** — Stewart CJ, Ajami NJ, O'Brien JL, et al. *Temporal development of the gut microbiome in early childhood from the TEDDY study*. Nature. 2018;562(7728):583-588. [doi:10.1038/s41586-018-0617-x](https://doi.org/10.1038/s41586-018-0617-x)
+- **xie2016** — Xie H, Guo R, Zhong H, et al. *Shotgun metagenomics of 250 adult twins reveals genetic and environmental impacts on the gut microbiome*. Cell Syst. 2016;3(6):572-584. [doi:10.1016/j.cels.2016.10.004](https://doi.org/10.1016/j.cels.2016.10.004)
+- **gutmeta2022** — Aasmets O, Krigul KL, Lüll K, Metspalu A, Org E. *Gut metagenome associations with extensive digital health data in a volunteer-based Estonian microbiome cohort*. Nat Commun. 2022;13(1):869. [doi:10.1038/s41467-022-28464-9](https://doi.org/10.1038/s41467-022-28464-9)
+- **birthmode2018** — Tun HM, Bridgman SL, Chari R, et al. *Roles of birth mode and infant gut microbiota in intergenerational transmission of overweight and obesity from mother to offspring*. JAMA Pediatr. 2018;172(4):368-377. [doi:10.1001/jamapediatrics.2017.5535](https://doi.org/10.1001/jamapediatrics.2017.5535)
+- **antibiotics2021** — Uzan-Yulzari A, Turta O, Belogolovski A, et al. *Neonatal antibiotic exposure impairs child growth during the first six years of life by perturbing intestinal microbial colonization*. Nat Commun. 2021;12(1):443. [doi:10.1038/s41467-020-20495-4](https://doi.org/10.1038/s41467-020-20495-4)
+- **hygiene2017** — Ege MJ. *The hygiene hypothesis in the age of the microbiome*. Ann Am Thorac Soc. 2017;14(Suppl 5):S348-S353. [doi:10.1513/AnnalsATS.201702-139AW](https://doi.org/10.1513/AnnalsATS.201702-139AW)
 
 ### Disease associations & function
-- **t1d2018** — *The human gut microbiome in early-onset type 1 diabetes (TEDDY)*. Nature. 2018. [doi:10.1038/s41586-018-0620-2](https://doi.org/10.1038/s41586-018-0620-2)
-- **akkermansia2021** — *Association between gut Akkermansia and metabolic syndrome*. Diabetes Metab Syndr Obes. 2021. [doi:10.2147/DMSO.S311388](https://doi.org/10.2147/DMSO.S311388)
-- **bilophila2019** — *A glycyl radical enzyme enables hydrogen sulfide production by Bilophila wadsworthia*. PNAS. 2019. [doi:10.1073/pnas.1815661116](https://doi.org/10.1073/pnas.1815661116)
-- **frailty2016** — *Signatures of early frailty in the gut microbiota*. Genome Med. 2016. [doi:10.1186/s13073-016-0262-7](https://doi.org/10.1186/s13073-016-0262-7)
-- **uc2021** — *Ecological and network analyses identify four microbial species relevant to ulcerative colitis*. BMC Microbiol. 2021. [doi:10.1186/s12866-021-02201-6](https://doi.org/10.1186/s12866-021-02201-6)
+- **t1d2018** — Vatanen T, Franzosa EA, Schwager R, et al. *The human gut microbiome in early-onset type 1 diabetes from the TEDDY study*. Nature. 2018;562(7728):589-594. [doi:10.1038/s41586-018-0620-2](https://doi.org/10.1038/s41586-018-0620-2)
+- **akkermansia2021** — Zhou Q, Pang G, Zhang Z, et al. *Association between gut Akkermansia and metabolic syndrome is dose-dependent and affected by microbial interactions*. Diabetes Metab Syndr Obes. 2021;14:2177-2188. [doi:10.2147/DMSO.S311388](https://doi.org/10.2147/DMSO.S311388)
+- **bilophila2019** — Peck SC, Denger K, Burrichter A, Irwin SM, Balskus EP, Schleheck D. *A glycyl radical enzyme enables hydrogen sulfide production by the human intestinal bacterium Bilophila wadsworthia*. Proc Natl Acad Sci U S A. 2019;116(8):3171-3176. [doi:10.1073/pnas.1815661116](https://doi.org/10.1073/pnas.1815661116)
+- **frailty2016** — Jackson MA, Jeffery IB, Beaumont M, et al. *Signatures of early frailty in the gut microbiota*. Genome Med. 2016;8(1):8. [doi:10.1186/s13073-016-0262-7](https://doi.org/10.1186/s13073-016-0262-7)
+- **uc2021** — Li W, Sun Y, Dai L, et al. *Ecological and network analyses identify four microbial species with potential significance for the diagnosis/treatment of ulcerative colitis*. BMC Microbiol. 2021;21(1):138. [doi:10.1186/s12866-021-02201-6](https://doi.org/10.1186/s12866-021-02201-6)
 
 ### Methods, aging & biomarkers
-- **metaomics2019** — *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019. [doi:10.1186/s40168-019-0767-6](https://doi.org/10.1186/s40168-019-0767-6)
-- **microbiomeage2025** — *Chronological age estimation from human microbiomes with transformer-based robust PCA*. Commun Biol. 2025. [doi:10.1038/s42003-025-08590-y](https://doi.org/10.1038/s42003-025-08590-y)
-
-_Some entries are listed by title + DOI; author lists and exact volumes are being completed as each source is integrated into a page._
+- **metaomics2019** — Zhang X, Li L, Butcher J, Stintzi A, Figeys D. *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019;7(1):154. [doi:10.1186/s40168-019-0767-6](https://doi.org/10.1186/s40168-019-0767-6)
+- **microbiomeage2025** — Myers T, Song SJ, Chen Y, et al. *Chronological age estimation from human microbiomes with transformer-based robust principal component analysis*. Commun Biol. 2025;8(1):1159. [doi:10.1038/s42003-025-08590-y](https://doi.org/10.1038/s42003-025-08590-y)

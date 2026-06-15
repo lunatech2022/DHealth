@@ -24,8 +24,8 @@ The microbiome is the vast community of microbes living in and on the body — m
 - The **microbiota** is the living organisms themselves; the **microbiome** is those organisms *plus* their collective genes; the **metagenome** is all of that genetic material read together.
 - These communities include bacteria, archaea, viruses, fungi, and other single-celled organisms.[^quince2017][^sorboni2022]
 - Most of these microbes colonise the gastrointestinal (GI) tract.[^sorboni2022]
-- There is **no single "perfect" composition** — a healthy microbiome looks different from person to person.[^rinninella2019]
-- Your microbiome is shaped early in life and keeps shifting with diet, age, and lifestyle.[^rinninella2019]
+- There is **no single "perfect" composition** — a healthy microbiome looks different from person to person.[^rinninella2019][^hmp2012]
+- Your microbiome is shaped early in life and keeps shifting with diet, age, and lifestyle.[^rinninella2019][^yatsunenko2012][^koenig2011]
 
 ## The detail
 
@@ -43,7 +43,7 @@ Where does this community live? Microbes are spread across the skin, mouth, and 
 
 Scientists organise the bacteria they find using the standard biological ranking — **genus, family, order, phylum** — much like sorting animals into species and families.[^rinninella2019] This lets us describe *who* is present and in what proportions.
 
-A crucial, sales-relevant point: there is **no single optimal microbiome**. Composition varies widely between healthy people and is influenced by diet, body mass index, and lifestyle.[^rinninella2019] It is also shaped early in life — by birth mode, infant feeding, and early antibiotic exposure — and continues to change with age and environment.[^rinninella2019]
+A crucial, sales-relevant point: there is **no single optimal microbiome**. Composition varies widely between healthy people and is influenced by diet, body mass index, and lifestyle.[^rinninella2019][^hmp2012] Even among healthy individuals, microbial membership differs markedly and shows strong niche specialization across body sites.[^hmp2012] It also varies systematically across age and geography, maturing toward an adult-like state over the first three years of life.[^yatsunenko2012] In fact, the infant gut microbiome is assembled early through a stepwise succession of microbial communities tied to diet and major life events.[^koenig2011] It is also shaped early in life — by birth mode, infant feeding, and early antibiotic exposure — and continues to change with age and environment.[^rinninella2019]
 
 !!! tip "So what?"
     A balanced gut community is not a luxury. It helps digest food and extract nutrients, keeps the gut lining (the mucosal barrier) intact, trains and regulates the immune system, and crowds out harmful pathogens.[^rinninella2019] When that balance is disrupted — a state called *dysbiosis* — it has been linked to both gut conditions and conditions elsewhere in the body, including metabolic and neurological disease.[^rinninella2019]
@@ -58,7 +58,7 @@ Every conversation we have rests on this foundation. Because the microbiome is i
 Bacteria are the biggest part, but the community also includes archaea, viruses, fungi, and other single-celled organisms.[^quince2017][^sorboni2022] Many cannot be grown in a lab, so DNA-based methods are needed to detect them.[^quince2017]
 
 **"Is there one ideal microbiome I should aim for?"**
-No. Healthy microbiomes differ from person to person and shift with diet, age, and lifestyle, so there is no single target composition.[^rinninella2019]
+No. Healthy microbiomes differ from person to person and shift with diet, age, and lifestyle, so there is no single target composition.[^rinninella2019][^hmp2012][^yatsunenko2012]
 
 **"What's the difference between microbiota and microbiome?"**
 Microbiota = the organisms themselves. Microbiome = those organisms plus their genes, treated as one ecosystem. The metagenome is all that genetic material sequenced together.
@@ -70,3 +70,6 @@ Microbiota = the organisms themselves. Microbiome = those organisms plus their g
 [^rinninella2019]: Rinninella E, Raoul P, Cintoni M, et al. *What is the Healthy Gut Microbiota Composition? A Changing Ecosystem across Age, Environment, Diet, and Diseases*. Microorganisms. 2019;7(1):14. [DOI](https://doi.org/10.3390/microorganisms7010014)
 [^quince2017]: Quince C, Walker AW, Simpson JT, Loman NJ, Segata N. *Shotgun metagenomics, from sampling to analysis*. Nat Biotechnol. 2017;35(9):833-844. [DOI](https://doi.org/10.1038/nbt.3935)
 [^sorboni2022]: Sorboni SG, Moghaddam HS, Jafarzadeh-Esfehani R, Soleimanpour S. *A Comprehensive Review on the Role of the Gut Microbiome in Human Neurological Disorders*. Clin Microbiol Rev. 2022;35(1):e0033820. [DOI](https://doi.org/10.1128/CMR.00338-20)
+[^hmp2012]: Human Microbiome Project Consortium. *Structure, function and diversity of the healthy human microbiome*. Nature. 2012;486(7402):207-214. [DOI](https://doi.org/10.1038/nature11234)
+[^yatsunenko2012]: Yatsunenko T, Rey FE, Manary MJ, et al. *Human gut microbiome viewed across age and geography*. Nature. 2012;486(7402):222-227. [DOI](https://doi.org/10.1038/nature11053)
+[^koenig2011]: Koenig JE, Spor A, Scalfone N, et al. *Succession of microbial consortia in the developing infant gut microbiome*. Proc Natl Acad Sci U S A. 2011;108(Suppl 1):4578-4585. [DOI](https://doi.org/10.1073/pnas.1000081107)

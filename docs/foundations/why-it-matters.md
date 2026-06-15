@@ -31,13 +31,17 @@ The gut microbiome shapes how we digest food, defend against illness, and even h
 
 ## The detail
 
+![How gut microbes influence health: microbes ferment fibre into metabolites such as short-chain fatty acids that support gut-barrier integrity, immune regulation, metabolic health, and the gut-brain axis.](../assets/microbiome-health.svg)
+
 The simplest reason the microbiome matters: these microbes do real work for us. They help break down food and extract nutrients, keep the lining of the gut (the mucosal barrier) intact, help train and regulate the immune system, and crowd out harmful pathogens.[^rinninella2019] When the community falls out of balance — a state called **dysbiosis** — those protective functions weaken, and the effects are not limited to the gut.[^rinninella2019]
 
-**Metabolism.** The gut microbiota is closely tied to how the body handles energy. Disruptions have been implicated in obesity, type 2 diabetes, non-alcoholic (fatty) liver disease, and broader cardio-metabolic disease.[^fan2020] This is why microbiome science has drawn so much attention from researchers working on metabolic health.
+**Metabolism.** The gut microbiota is closely tied to how the body handles energy. Disruptions have been implicated in obesity, type 2 diabetes, non-alcoholic (fatty) liver disease, and broader cardio-metabolic disease.[^fan2020] For example, a higher abundance of *Akkermansia* is associated with a lower risk of metabolic syndrome in a dose-dependent way.[^akkermansia2021] And in early childhood, functional features of the gut microbiome — including genes for short-chain fatty acid biosynthesis — associate with protection from type 1 diabetes.[^t1d2018] Deep-metagenome cohorts linked to extensive health data have likewise surfaced many microbiome associations with disease and medication use.[^gutmeta2022] This is why microbiome science has drawn so much attention from researchers working on metabolic health.
 
 **The brain.** There is a two-way communication channel between the gut and the brain, often called the **microbiota-gut-brain axis**. Dysbiosis has been linked to a range of neurological disorders through this axis.[^sorboni2022] One mechanism: gut microbes produce small molecules called **metabolites** — including short-chain fatty acids — that can influence brain function and behaviour.[^caspani2019]
 
 **The immune system and barrier.** A balanced community helps regulate immunity and maintains the integrity of the gut barrier, which keeps the right things in and the wrong things out.[^rinninella2019]
+
+**Aging.** Microbiome health also tracks with how well we age: frailty is negatively associated with the diversity of the gut microbiota, so lower diversity tends to accompany greater frailty.[^frailty2016]
 
 | Body system | What the microbiome does | What imbalance is linked to |
 |-------------|--------------------------|-----------------------------|
@@ -57,7 +61,7 @@ This is the "why should I care" page for every customer and clinician conversati
 ## Common questions
 
 **"Is microbiome health really linked to anything beyond digestion?"**
-Yes. It is associated with metabolic conditions like obesity and type 2 diabetes,[^fan2020] with neurological conditions via the gut-brain axis,[^sorboni2022] and with immune regulation and gut barrier integrity.[^rinninella2019]
+Yes. It is associated with metabolic conditions like obesity and type 2 diabetes,[^fan2020] with metabolic syndrome (e.g. *Akkermansia* abundance),[^akkermansia2021] with type 1 diabetes,[^t1d2018] with neurological conditions via the gut-brain axis,[^sorboni2022] with frailty and aging,[^frailty2016] and with immune regulation and gut barrier integrity.[^rinninella2019] Large cohorts linking deep metagenomes to health data have catalogued many such associations.[^gutmeta2022]
 
 **"Is this just correlation, or does the microbiome actually cause disease?"**
 The honest answer: the field is actively moving from correlation toward cause-and-effect using multi-omics methods.[^fan2020] That maturing evidence base is exactly why measurement is becoming more valuable.
@@ -73,3 +77,7 @@ Through the microbiota-gut-brain axis. Gut microbes produce metabolites such as 
 [^sorboni2022]: Sorboni SG, Moghaddam HS, Jafarzadeh-Esfehani R, Soleimanpour S. *A Comprehensive Review on the Role of the Gut Microbiome in Human Neurological Disorders*. Clin Microbiol Rev. 2022;35(1):e0033820. [DOI](https://doi.org/10.1128/CMR.00338-20)
 [^rinninella2019]: Rinninella E, Raoul P, Cintoni M, et al. *What is the Healthy Gut Microbiota Composition? A Changing Ecosystem across Age, Environment, Diet, and Diseases*. Microorganisms. 2019;7(1):14. [DOI](https://doi.org/10.3390/microorganisms7010014)
 [^caspani2019]: Caspani G, Kennedy S, Foster JA, Swann J. *Gut microbial metabolites in depression: understanding the biochemical mechanisms*. Microb Cell. 2019;6(10):454-481. [DOI](https://doi.org/10.15698/mic2019.10.693)
+[^gutmeta2022]: Aasmets O, Krigul KL, Lüll K, Metspalu A, Org E. *Gut metagenome associations with extensive digital health data in a volunteer-based Estonian microbiome cohort*. Nat Commun. 2022;13(1):869. [DOI](https://doi.org/10.1038/s41467-022-28464-9)
+[^t1d2018]: Vatanen T, Franzosa EA, Schwager R, et al. *The human gut microbiome in early-onset type 1 diabetes from the TEDDY study*. Nature. 2018;562(7728):589-594. [DOI](https://doi.org/10.1038/s41586-018-0620-2)
+[^akkermansia2021]: Zhou Q, Pang G, Zhang Z, et al. *Association between gut Akkermansia and metabolic syndrome is dose-dependent and affected by microbial interactions*. Diabetes Metab Syndr Obes. 2021;14:2177-2188. [DOI](https://doi.org/10.2147/DMSO.S311388)
+[^frailty2016]: Jackson MA, Jeffery IB, Beaumont M, et al. *Signatures of early frailty in the gut microbiota*. Genome Med. 2016;8(1):8. [DOI](https://doi.org/10.1186/s13073-016-0262-7)

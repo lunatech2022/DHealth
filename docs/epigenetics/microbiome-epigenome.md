@@ -37,6 +37,8 @@ The microbiome does more than digest food; it sends chemical signals that reach 
 
 The mechanism is striking: microbial metabolites can directly touch the host epigenome. Gut microbial metabolites, including SCFAs, indoles, and bile acids, act on the **microbiota-gut-brain axis** in part through **epigenetic regulation of histone acetylation and DNA methylation**.[^caspani2019] In other words, the chemical output of our gut bacteria can shape which of our own genes are switched on or off, particularly in pathways relevant to brain and immune function.
 
+A concrete example of microbes turning diet into a bioactive signal: the gut bacterium *Bilophila wadsworthia* uses a dedicated enzyme to produce hydrogen sulfide from dietary taurine, generating a small molecule that can act on host tissue.[^bilophila2019] Capturing this kind of microbial **function**, rather than just taxonomy, is exactly what meta-omics approaches — metagenomics combined with metatranscriptomics and metabolomics — are built to reveal.[^metaomics2019]
+
 | Metabolite class | Source | Epigenetic / health link |
 | --- | --- | --- |
 | SCFAs (butyrate, acetate, propionate) | Microbial fermentation of fiber | Barrier integrity, anti-inflammatory, DNA/histone methylation[^alsharairi2023] |
@@ -71,3 +73,5 @@ Microbial metabolites act on the gut-brain axis, including through epigenetic re
 [^caspani2019]: Caspani G, Kennedy S, Foster JA, Swann J. *Gut microbial metabolites in depression: understanding the biochemical mechanisms*. Microb Cell. 2019;6(10):454-481. [DOI](https://doi.org/10.15698/mic2019.10.693)
 [^alsharairi2023]: Alsharairi NA. *Therapeutic Potential of Gut Microbiota and Its Metabolite Short-Chain Fatty Acids in Neonatal Necrotizing Enterocolitis*. Life (Basel). 2023;13(2):561. [DOI](https://doi.org/10.3390/life13020561)
 [^fan2020]: Fan Y, Pedersen O. *Gut microbiota in human metabolic health and disease*. Nat Rev Microbiol. 2021;19(1):55-71. [DOI](https://doi.org/10.1038/s41579-020-0433-9)
+[^bilophila2019]: Peck SC, Denger K, Burrichter A, Irwin SM, Balskus EP, Schleheck D. *A glycyl radical enzyme enables hydrogen sulfide production by the human intestinal bacterium Bilophila wadsworthia*. Proc Natl Acad Sci U S A. 2019;116(8):3171-3176. [DOI](https://doi.org/10.1073/pnas.1815661116)
+[^metaomics2019]: Zhang X, Li L, Butcher J, Stintzi A, Figeys D. *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019;7(1):154. [DOI](https://doi.org/10.1186/s40168-019-0767-6)

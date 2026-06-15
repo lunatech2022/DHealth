@@ -29,6 +29,8 @@ A sample travels through six stages — collection, DNA extraction, library prep
 
 ## The detail
 
+![From sample to result: collect, extract DNA, library prep, sequence, analyse with a bioinformatics pipeline, and report.](../assets/sample-to-result.svg)
+
 **1. Sample collection.** Everything starts with the specimen — stool, swab, or other material. How it's collected, stored, and transported directly affects result quality, so thoughtful experimental design and consistent handling are foundational, not afterthoughts.[^knight2018]
 
 **2. DNA extraction.** The lab breaks open cells and isolates their DNA (and, for some assays, RNA) from the rest of the sample. The goal is clean, representative genetic material; extraction method can influence which organisms are well represented, which is why standardization matters.
@@ -37,7 +39,7 @@ A sample travels through six stages — collection, DNA extraction, library prep
 
 **4. Sequencing.** The prepared library is loaded onto a sequencer, which reads the genetic letters at massive scale. This high-throughput reading is exactly what next-generation sequencing made affordable and routine.[^goodwin2016]
 
-**5. Bioinformatics and analysis.** The sequencer outputs raw reads — millions of short strings of letters that mean nothing on their own. Bioinformatics turns them into answers: cleaning the data, then assigning reads to organisms and functions. Profiling can be **assembly-based** (stitching reads into longer genome fragments) or **mapping-based** (matching reads to references).[^quince2017] This is also where modern practice favors exact sequence variants (ASVs) over older OTU clustering, and where reproducible methods are critical.[^knight2018]
+**5. Bioinformatics and analysis.** The sequencer outputs raw reads — millions of short strings of letters that mean nothing on their own. Bioinformatics turns them into answers: cleaning the data, then assigning reads to organisms and functions. Profiling can be **assembly-based** (stitching reads into longer genome fragments) or **mapping-based** (matching reads to references).[^quince2017] Going beyond taxonomy to microbial **function** is where meta-omics approaches — combining metagenomics with metatranscriptomics and metabolomics — add the most value.[^metaomics2019] This is also where modern practice favors exact sequence variants (ASVs) over older OTU clustering, and where reproducible methods are critical.[^knight2018]
 
 **6. Reporting.** Finally, analytical output is translated into a clear, interpretable result for the customer or clinician — the deliverable that the whole pipeline exists to produce.
 
@@ -73,3 +75,4 @@ High-throughput, low-cost next-generation sequencing turned reading genetic mate
 [^quince2017]: Quince C, Walker AW, Simpson JT, Loman NJ, Segata N. *Shotgun metagenomics, from sampling to analysis*. Nat Biotechnol. 2017;35(9):833-844. [DOI](https://doi.org/10.1038/nbt.3935)
 [^knight2018]: Knight R, Vrbanac A, Taylor BC, et al. *Best practices for analysing microbiomes*. Nat Rev Microbiol. 2018;16(7):410-422. [DOI](https://doi.org/10.1038/s41579-018-0029-9)
 [^goodwin2016]: Goodwin S, McPherson JD, McCombie WR. *Coming of age: ten years of next-generation sequencing technologies*. Nat Rev Genet. 2016;17(6):333-351. [DOI](https://doi.org/10.1038/nrg.2016.49)
+[^metaomics2019]: Zhang X, Li L, Butcher J, Stintzi A, Figeys D. *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019;7(1):154. [DOI](https://doi.org/10.1186/s40168-019-0767-6)

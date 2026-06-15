@@ -44,6 +44,8 @@ Shotgun sequencing skips the targeted-PCR step and instead **fragments and seque
 
 ## Side-by-side comparison
 
+![16S vs Shotgun at a glance: 16S reads one marker gene and gives genus-level, bacteria-only results with no functional data; shotgun reads all DNA and gives species/strain resolution across bacteria, archaea, viruses and fungi plus functional information.](../assets/16s-vs-shotgun.svg)
+
 | Dimension | 16S rRNA amplicon | Shotgun metagenomics |
 |---|---|---|
 | **What's sequenced** | One/few variable regions of the 16S gene[^johnson2019] | All DNA in the sample[^quince2017] |
