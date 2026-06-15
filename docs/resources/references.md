@@ -78,6 +78,11 @@ Verified primary literature from our internal evidence collection, with full cit
 - **frailty2016** — Jackson MA, Jeffery IB, Beaumont M, et al. *Signatures of early frailty in the gut microbiota*. Genome Med. 2016;8(1):8. [doi:10.1186/s13073-016-0262-7](https://doi.org/10.1186/s13073-016-0262-7)
 - **uc2021** — Li W, Sun Y, Dai L, et al. *Ecological and network analyses identify four microbial species with potential significance for the diagnosis/treatment of ulcerative colitis*. BMC Microbiol. 2021;21(1):138. [doi:10.1186/s12866-021-02201-6](https://doi.org/10.1186/s12866-021-02201-6)
 
+### Disease associations & function (continued)
+- **henke2019** — Henke MT, Kenny DJ, Cassilly CD, Vlamakis H, Xavier RJ, Clardy J. *Ruminococcus gnavus, a member of the human gut microbiome associated with Crohn's disease, produces an inflammatory polysaccharide*. Proc Natl Acad Sci U S A. 2019;116(26):12672-12677. [doi:10.1073/pnas.1904099116](https://doi.org/10.1073/pnas.1904099116)
+- **glp1micro2023** — Zeng Y, Wu Y, Zhang Q, Xiao X. *Crosstalk between glucagon-like peptide 1 and gut microbiota in metabolic diseases*. mBio. 2023;15(1):e0203223. [doi:10.1128/mbio.02032-23](https://doi.org/10.1128/mbio.02032-23)
+- **scfa2023** — Zhang D, Jian YP, Zhang YN, et al. *Short-chain fatty acids in diseases*. Cell Commun Signal. 2023;21(1):212. [doi:10.1186/s12964-023-01219-9](https://doi.org/10.1186/s12964-023-01219-9)
+
 ### Methods, aging & biomarkers
 - **metaomics2019** — Zhang X, Li L, Butcher J, Stintzi A, Figeys D. *Advancing functional and translational microbiome research using meta-omics approaches*. Microbiome. 2019;7(1):154. [doi:10.1186/s40168-019-0767-6](https://doi.org/10.1186/s40168-019-0767-6)
 - **microbiomeage2025** — Myers T, Song SJ, Chen Y, et al. *Chronological age estimation from human microbiomes with transformer-based robust principal component analysis*. Commun Biol. 2025;8(1):1159. [doi:10.1038/s42003-025-08590-y](https://doi.org/10.1038/s42003-025-08590-y)
